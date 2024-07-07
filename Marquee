@@ -1,3 +1,5 @@
+<html>
+<body>
 <div class="marquee">
     <div class="marquee__group">
       <span>hello there ➺</span>
@@ -12,3 +14,5 @@
       
     </div>
 </div>
+</body>
+</html>
